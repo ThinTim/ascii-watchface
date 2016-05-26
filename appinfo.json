@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Tim Erwich",
+    "enableMultiJS": false,
+    "longName": "ASCII",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "ASCII",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "423a3571-9ec3-411b-b2c1-220caf9c8d89",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
